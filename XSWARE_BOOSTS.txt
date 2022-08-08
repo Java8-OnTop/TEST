@@ -2,4 +2,4 @@ XSS6 :2
 Sleepy :1
 F10 :1
 Fourty :1
-Spettroca:
+Spettroca :1
