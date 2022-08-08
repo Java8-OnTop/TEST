@@ -3,7 +3,3 @@ Sleepy :1
 F10 :1
 Fourty :1
 Spettroca :1
-ImmortalStars1 :1
-Nemesis :1
-Wylx :1
-Cinemassacre :1
